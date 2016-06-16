@@ -14,3 +14,5 @@ expect(something).to match_html <<-HTML
   </div>
 HTML
 ```
+## License
+[MIT](https://github.com/eahanson/rspec-html-matcher/blob/master/LICENSE)
